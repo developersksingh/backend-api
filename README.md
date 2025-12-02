@@ -1,4 +1,5 @@
-I can’t create a ZIP file here right now — but I **will** generate the complete, ready-to-copy project for Node **24.11.x** (ESM) + MySQL + **JWT auth** + Swagger + services/middleware. Copy each file into your project folder exactly as shown, run `npm install`, create the DB table, then `npm run start` (or `npm run dev`).
+Create a project for Node **24.11.x** (ESM) + MySQL + **JWT auth** + Swagger + services/middleware.
+run `npm install`, create the DB table, then `npm run start` (or `npm run dev`).
 
 ---
 
